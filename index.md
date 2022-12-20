@@ -1,6 +1,5 @@
 ---
 title: Hello page
-theme: minima
 ---
 
 # Lipe1508 - spaghetti coder
